@@ -115,6 +115,21 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="133.92857142857142"/>
         </scene>
+        <!--Register-->
+        <scene sceneID="Pht-Oc-QSi">
+            <objects>
+                <viewController title="Register" id="Xbl-e1-zBr" customClass="RegisterViewController" customModule="AuthenSSRU" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="b8m-zO-OQf">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="hoy-xZ-6mb"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WGr-6T-9Hb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="981" y="134"/>
+        </scene>
     </scenes>
     <resources>
         <image name="Wallpaper" width="227.66667175292969" height="341.33334350585938"/>
