@@ -140,7 +140,11 @@
                                                 <action selector="backButton:" destination="Xbl-e1-zBr" id="yMi-Bv-5Ry"/>
                                             </connections>
                                         </barButtonItem>
-                                        <barButtonItem key="rightBarButtonItem" title="Item" image="CloudUpload" id="grT-fv-RxV"/>
+                                        <barButtonItem key="rightBarButtonItem" title="Item" image="CloudUpload" id="grT-fv-RxV">
+                                            <connections>
+                                                <action selector="uploadButton:" destination="Xbl-e1-zBr" id="3By-uf-cpx"/>
+                                            </connections>
+                                        </barButtonItem>
                                     </navigationItem>
                                 </items>
                             </navigationBar>
